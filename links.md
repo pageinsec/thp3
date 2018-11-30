@@ -25,4 +25,4 @@ Vext ch 1 notes: https://vext.info/2018/11/08/brakesec-book-club-hacker-playbook
 
 Black Hills dnscat2 w/PowerShell: https://www.blackhillsinfosec.com/powershell-dns-command-control-with-dnscat2-powershell/
 
-#Ch 2 Links
+# Ch 2 Links
