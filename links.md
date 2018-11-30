@@ -2,6 +2,8 @@
 ### Links from the book and working through it that I want to have handy. Please add brief description when adding. 
 ### No obfuscated (bit.ly, etc.) links please.
 
+THP3 Updates page: https://github.com/cheetz/THP3_Updates
+
 Full list w/o any info: https://gist.github.com/audibleblink/4fac43157d791774ff28237b2a8c9b35
 
 # Ch 1 Links
