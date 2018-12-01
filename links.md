@@ -30,3 +30,46 @@ Vext ch 1 notes: https://vext.info/2018/11/08/brakesec-book-club-hacker-playbook
 Black Hills dnscat2 w/PowerShell: https://www.blackhillsinfosec.com/powershell-dns-command-control-with-dnscat2-powershell/
 
 # Ch 2 Links
+
+Masscan: https://github.com/robertdavidgraham/masscan
+
+GRASSMARLIN: https://github.com/nsacyber/GRASSMARLIN
+
+Intel Techniques (Michael Bazzell's website): https://inteltechniques.com/menu.html
+
+HTTPScreenshot: https://github.com/breenmachine/httpscreenshot
+
+EyeWitness (note link has changed from what is in book): https://github.com/FortyNorthSecurity/EyeWitness
+
+Amazon IP ranges: https://ip-ranges.amazonaws.com/ip-ranges.json
+
+Azure IP ranges: https://www.microsoft.com/en-us/download/details.aspx?id=41653
+
+Google Cloud IP ranges: https://cloud.google.com/compute/docs/faq#ipranges
+
+Censys Subdomain Finder: https://github.com/christophetd/censys-subdomain-finder
+
+sslScrape: https://github.com/cheetz/sslScrape
+
+Discover Scripts: https://github.com/leebaird/discover
+
+Geeky.Space Discover walkthrough: http://www.thegeeky.space/2015/04/how-to-save-time-doing-passive-discovery-in-Kali-Linux-using-discover-or-backtrack-script-framework.html
+
+J Haddix word list: https://gist.github.com/jhaddix/86a06c5dc309d08580a018c66354a056
+
+SecLists: https://github.com/danielmiessler/SecLists
+
+Sending output refresher from makeuseof: https://www.makeuseof.com/tag/save-command-line-output-file-windows-mac-linux/)
+
+Sublist3r: https://github.com/aboul3la/Sublist3r
+
+Fix for urllib3 and chardet error on Sublis3r: https://medium.com/@gloriapalmagonzalez/urllib3-1-22-or-chardet-2-2-1-doesnt-match-a-supported-version-requestsdependencywarning-97c36e0cb561
+
+Subbrute: https://github.com/TheRook/subbrute
+
+Shpend Kutishaj discovering subdomains: https://www.bugcrowd.com/discovering-subdomains/
+
+J Haddix subdomain script: https://github.com/jhaddix/domain/
+
+MassDNS: https://github.com/blechschmidt/massdns
+
