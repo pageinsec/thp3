@@ -1,5 +1,6 @@
 
-### Links from the book and working through it that I want to have handy. Please add brief description when adding. 
+### Links from the book and working through it that I want to have handy (not a comprehensive list). 
+### Please add name or brief description of tool or whatever it is when adding. 
 ### No obfuscated (bit.ly, etc.) links please.
 
 THP3 Updates page: https://github.com/cheetz/THP3_Updates
@@ -30,30 +31,41 @@ Vext ch 1 notes: https://vext.info/2018/11/08/brakesec-book-club-hacker-playbook
 Black Hills dnscat2 w/PowerShell: https://www.blackhillsinfosec.com/powershell-dns-command-control-with-dnscat2-powershell/
 
 # Ch 2 Links
-
+#### Monitoring an Environment
 Masscan: https://github.com/robertdavidgraham/masscan
 
 GRASSMARLIN: https://github.com/nsacyber/GRASSMARLIN
 
 Intel Techniques (Michael Bazzell's website): https://inteltechniques.com/menu.html
 
+#### Web Screenshots
 HTTPScreenshot: https://github.com/breenmachine/httpscreenshot
 
 EyeWitness (note link has changed from what is in book): https://github.com/FortyNorthSecurity/EyeWitness
 
+#### Cloud IP Ranges
 Amazon IP ranges: https://ip-ranges.amazonaws.com/ip-ranges.json
 
 Azure IP ranges: https://www.microsoft.com/en-us/download/details.aspx?id=41653
 
 Google Cloud IP ranges: https://cloud.google.com/compute/docs/faq#ipranges
 
-Censys Subdomain Finder: https://github.com/christophetd/censys-subdomain-finder
+#### Network/Service Search Engines
+Shodan: https://www.shodan.io
 
+Censys.io: https://censys.io/
+
+Censys subdomain finder: https://github.com/christophetd/censys-subdomain-finder
+
+#### Mannually Parse SSL Certificates
 sslScrape: https://github.com/cheetz/sslScrape
 
+#### Subdomain Discovery
 Discover Scripts: https://github.com/leebaird/discover
 
 Geeky.Space Discover walkthrough: http://www.thegeeky.space/2015/04/how-to-save-time-doing-passive-discovery-in-Kali-Linux-using-discover-or-backtrack-script-framework.html
+
+Knock: https://github.com/guelfoweb/knock
 
 J Haddix word list: https://gist.github.com/jhaddix/86a06c5dc309d08580a018c66354a056
 
@@ -72,4 +84,39 @@ Shpend Kutishaj discovering subdomains: https://www.bugcrowd.com/discovering-sub
 J Haddix subdomain script: https://github.com/jhaddix/domain/
 
 MassDNS: https://github.com/blechschmidt/massdns
+
+#### Github
+Truffle Hog: https://github.com/dxa4481/truffleHog
+
+git-all-secrets: https://github.com/anshumanbh/git-all-secrets
+
+Docker commands: https://docs.docker.com/engine/reference/commandline/run/#parent-command
+
+#### Cloud
+SweetRollBandit Slurp blog: https://medium.com/@SweetRollBandit/aws-slurp-github-takeover-f8c80b13e7b5
+
+nuncan Slurp: https://github.com/nuncan/slurp
+
+Bucket Finder: https://digi.ninja/projects/bucket_finder.php
+
+tko-subs: https://github.com/anshumanbh/tko-subs
+
+HostileSubBruteforcer: https://github.com/nahamsec/HostileSubBruteforcer
+
+autoSubTakeover: https://github.com/JordyZomer/autoSubTakeover
+
+flAWS Challenge (AWS CTF): http://flaws.cloud
+
+#### Email
+SimplyEmail: https://github.com/SimplySecurity/SimplyEmail
+
+haveibeenpwned: https://haveibeenpwned.com/
+
+#### OSINT
+OSINT Team Links: https://github.com/IVMachiavelli/OSINT_Team_Links
+
+OSINT Framework: https://osintframework.com/
+
+Intell Techniques (Michael Bazzell) OSINT tools: https://inteltechniques.com/menu.html
+
 
