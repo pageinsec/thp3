@@ -119,4 +119,61 @@ OSINT Framework: https://osintframework.com/
 
 Intell Techniques (Michael Bazzell) OSINT tools: https://inteltechniques.com/menu.html
 
+# Ch 3 Links
+
+OWASP Testing Guide: https://www.owasp.org/index.php/OWASP_Testing_Project
+
+The Web Application Hacker's Handbook 2nd ed: http://mdsec.net/wahh/
+
+PentesterLab: https://pentesterlab.com/
+
+#### Bug Bounty Programs
+
+Bug Crowd: https://www.bugcrowd.com
+
+HackerOne: https://www.hackerone.com
+
+SynAck: https://www.synack.com/red-team/
+
+Cybrary Web Application Penetration Testing course: https://www.cybrary.it/course/web-application-pen-testing
+
+Bug Crowd University: https://www.bugcrowd.com/university/
+
+Typora: https://typora.io/
+
+StackEdit: https://stackedit.io/
+
+Dillinger: https://dillinger.io/
+
+Report generation form from buer.haus: https://buer.haus/breport/index.php
+
+#### Web Attacks Intro
+
+Vim: https://www.vim.org/
+
+Vim reference from Christopher Kielty: https://eastmanreference.com/a-quick-start-guide-for-beginners-to-the-vim-text-editor
+
+Testing checklist by tanprathan: https://github.com/tanprathan/OWASP-Testing-Checklist
+
+Node.js: https://nodejs.org/en/
+
+Wappalyzer: https://wappalyzer.com
+
+BuiltWith: https://builtwith.com
+
+Retire.JS Github: https://github.com/retirejs/retire.js/
+
+Foxy Proxy: https://getfoxyproxy.org/downloads/
+
+#### Web Discovery
+
+BurpSuite: https://portswigger.net/burp
+
+OWASP ZAP: https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project
+
+DirBuster: https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project
+
+GoBuster: https://github.com/OJ/gobuster
+
+Hacksplaining: https://www.hacksplaining.com/
 
