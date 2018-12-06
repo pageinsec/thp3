@@ -175,5 +175,28 @@ DirBuster: https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project
 
 GoBuster: https://github.com/OJ/gobuster
 
+#### XSS
+
 Hacksplaining: https://www.hacksplaining.com/
 
+Web for Pentester: https://pentesterlab.com/exercises/web_for_pentester
+
+Obfuscate XSS payloads - Foospidy: https://github.com/foospidy/payloads/tree/master/other/xss 
+
+Obfuscate XSS payloads - OWASP: https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet
+
+HTML Event Attributes: https://www.w3schools.com/tags/ref_eventattributes.asp
+
+XSS Mind Map from Jack Masa: https://raw.githubusercontent.com/cyberspacekittens/XSS/master/XSS2.png
+
+HTML 5 Security Cheatsheet: https://html5sec.org/
+
+0xSobky - Unleashing an Ultimate XSS Polyglot: https://github.com/0xsobky/HackVault/wiki/Unleashing-an-Ultimate-XSS-Polyglot
+
+URL Encoding Reference from w3schools: https://www.w3schools.com/tags/ref_urlencode.asp
+
+BeEF: https://beefproject.com
+
+XSSHunter: https://xsshunter.com
+
+JSF*ck (esoteric Javascript): http://www.jsfuck.com/
