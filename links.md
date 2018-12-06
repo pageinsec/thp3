@@ -197,6 +197,8 @@ URL Encoding Reference from w3schools: https://www.w3schools.com/tags/ref_urlenc
 
 BeEF: https://beefproject.com
 
+BeEF & Metasploit: https://github.com/beefproject/beef/wiki/Metasploit
+
 XSSHunter: https://xsshunter.com
 
 JSF*ck (esoteric Javascript): http://www.jsfuck.com/
