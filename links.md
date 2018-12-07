@@ -165,6 +165,8 @@ Retire.JS Github: https://github.com/retirejs/retire.js/
 
 Foxy Proxy: https://getfoxyproxy.org/downloads/
 
+OWASP Juice Shop (insecure web app): https://github.com/bkimminich/juice-shop
+
 #### Web Discovery
 
 BurpSuite: https://portswigger.net/burp
@@ -202,3 +204,14 @@ BeEF & Metasploit: https://github.com/beefproject/beef/wiki/Metasploit
 XSSHunter: https://xsshunter.com
 
 JSF*ck (esoteric Javascript): http://www.jsfuck.com/
+
+XSSER example and walkthrough from Hans-Michael Varbaek: https://github.com/Varbaek/xsser
+
+#### NoSQL Injection
+
+OWASP testing guide: https://www.owasp.org/index.php/Testing_for_NoSQL_injection
+
+PayloadsAllTheThings NoSQL injection info: https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/NoSQL%20injection
+
+
+
