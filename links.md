@@ -125,7 +125,13 @@ OWASP Testing Guide: https://www.owasp.org/index.php/OWASP_Testing_Project
 
 The Web Application Hacker's Handbook 2nd ed: http://mdsec.net/wahh/
 
+Intro to web hacking 101 webinar (PAHackers/Brandon Keath): https://www.youtube.com/watch?v=ujCGUerEWsY
+
 PentesterLab: https://pentesterlab.com/
+
+OWASP Juice Shop (vulnerable app to attack): https://github.com/bkimminich/juice-shop
+
+Natas (basics of serverside web-security) on OverTheWire: http://overthewire.org/wargames/natas/
 
 #### Bug Bounty Programs
 
@@ -212,6 +218,36 @@ XSSER example and walkthrough from Hans-Michael Varbaek: https://github.com/Varb
 OWASP testing guide: https://www.owasp.org/index.php/Testing_for_NoSQL_injection
 
 PayloadsAllTheThings NoSQL injection info: https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/NoSQL%20injection
+
+QS NodeJS Module (can convert HTTP requeist into JSON objects): https://www.npmjs.com/package/qs
+
+Websecurify blog on hacking NodeJS and MongoDB: https://blog.websecurify.com/2014/08/hacking-nodejs-and-mongodb.html
+
+Websecurify project to practice NodeJS hacking: https://github.com/websecurify
+
+OWASP Deserialization Cheat Sheet: https://www.owasp.org/index.php/Deserialization_Cheat_Sheet
+
+serialize.js: https://github.com/luin/serialize
+
+CVE info for serialize.js: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-5941
+
+Opsex's blog on the serialize.js vulnerability: https://opsecx.com/index.php/2017/02/08/exploiting-node-js-deserialization-bug-for-remote-code-execution/
+
+Make Burp ignore detectportal.firefox.com:80: https://security.stackexchange.com/questions/187069/burpsuite-just-passthrough-firefox-detect-portal/187075
+
+Turn off captive portal detection in Firefox: https://support.mozilla.org/en-US/questions/1157121
+
+MSFVenom cheat sheet: https://nitesculucian.github.io/2018/07/24/msfvenom-cheat-sheet/
+
+Wiremask blog on getting a reverse shell on a NodeJS application: https://wiremask.eu/writeups/reverse-shell-on-a-nodejs-application/
+
+Hacking Tutorials Netcat bind and reverse shells: https://www.hackingtutorials.org/networking/hacking-netcat-part-2-bind-reverse-shells/
+
+pentestmonkey Post-Exploitation Without A TTY: http://pentestmonkey.net/blog/post-exploitation-without-a-tty
+
+
+
+
 
 
 
