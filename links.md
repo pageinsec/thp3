@@ -245,6 +245,34 @@ Hacking Tutorials Netcat bind and reverse shells: https://www.hackingtutorials.o
 
 pentestmonkey Post-Exploitation Without A TTY: http://pentestmonkey.net/blog/post-exploitation-without-a-tty
 
+#### Template Engine Attacks
+
+Server-Side Template Injection by James Kettle: https://www.blackhat.com/docs/us-15/materials/us-15-Kettle-Server-Side-Template-Injection-RCE-For-The-Modern-Web-App-wp.pdf
+
+Tplmap (test for template injections): https://github.com/epinna/tplmap
+
+#### JS and RCE
+
+Github webshells by tennc: https://github.com/tennc/webshell
+
+#### SSRF
+
+OWAS SSRF info: https://www.owasp.org/index.php/Server_Side_Request_Forgery
+
+Blog from Acunetix on SSRF: https://www.acunetix.com/blog/articles/server-side-request-forgery-vulnerability/
+
+Agarri Presentation on SSRF: http://www.agarri.fr/docs/AppSecEU15-Server_side_browsing_considered_harmful.pdf
+
+#### XXE
+
+OWASP XXE info: [info](OWASP](https://www.owasp.org/index.php/XML_External_Entity_(XXE)_Processing) (sorry, had to obfuscate to keep the link intact)
+
+OWASP XXE prevention cheat sheet: [cheat sheet](https://www.owasp.org/index.php/XML_External_Entity_(XXE)_Prevention_Cheat_Sheet) (ditto)
+
+Infosec Institute: https://resources.infosecinstitute.com/identify-mitigate-xxe-vulnerabilities/#gref
+
+
+
 
 
 
