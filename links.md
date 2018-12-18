@@ -271,7 +271,9 @@ OWASP XXE prevention cheat sheet: [cheat sheet](https://www.owasp.org/index.php/
 
 Infosec Institute: https://resources.infosecinstitute.com/identify-mitigate-xxe-vulnerabilities/#gref
 
+XXE-OOB walkthrough by ZeroSec: https://blog.zsec.uk/out-of-band-xxe-2/
 
+Python server w/directory specified using pushd: https://stackoverflow.com/questions/2469256/set-the-current-directory-when-running-a-simplehttpserver 
 
 
 
