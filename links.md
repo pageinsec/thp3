@@ -5,7 +5,7 @@
 
 THP3 Updates page: https://github.com/cheetz/THP3_Updates
 
-Full list w/o any info: https://gist.github.com/audibleblink/4fac43157d791774ff28237b2a8c9b35
+Full list of THP3 links w/o any info from audibleblink: https://gist.github.com/audibleblink/4fac43157d791774ff28237b2a8c9b35
 
 # Ch 1 Links
 Setting up iptables: https://www.howtogeek.com/177621/the-beginners-guide-to-iptables-the-linux-firewall/
