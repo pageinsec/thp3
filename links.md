@@ -1,5 +1,5 @@
+### Links from the book and working through it that I want to have handy (not a comprehensive list).
 
-### Links from the book and working through it that I want to have handy (not a comprehensive list). 
 ### Please add name or brief description of tool or whatever it is when adding. 
 ### No obfuscated (bit.ly, etc.) links please.
 
@@ -384,6 +384,10 @@ Ethical pentest llmnr and nbt ns poisoning with Metasploit: http://www.ethicalpe
 SMB relay attack: https://cqureacademy.com/blog/penetration-testing/smb-relay-attack
 
 ### After compromising your initial host
+
+RTFM scripts: https://github.com/leostat/rtfm
+
+RTFM inspired cheat sheets: https://github.com/droberson/rtfm
 
 Metasploitable3: https://github.com/rapid7/metasploitable3
 
