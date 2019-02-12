@@ -449,5 +449,65 @@ Chandel Linux escalation blog: https://www.hackingarticles.in/linux-privilege-es
 
 DirtyCow: https://dirtycow.ninja/
 
+# Ch 5 Links
 
+Security through Education: https://www.social-engineer.org/
+
+Social Engineering: Science of Human Hacking: https://www.wiley.com/en-us/Social+Engineering%3A+The+Science+of+Human+Hacking%2C+2nd+Edition-p-9781119433385
+
+Defcon SE CTF info: https://www.social-engineer.org/event-updates/defcon-updates/2017-sectf-report/
+
+### Doppelganger Domains
+
+Social Engineering Toolkit (SET): https://github.com/trustedsec/social-engineer-toolkit
+
+Packt video on using SET: https://www.youtube.com/watch?v=BOxKOV9_4EA
+
+StackExchange Windows host file troubleshooting: https://serverfault.com/questions/452268/hosts-file-ignored-how-to-troubleshoot
+
+### Creds with 2FA
+
+ReelPhish: https://github.com/fireeye/ReelPhish
+
+FireEye blog on ReelPhish: https://www.fireeye.com/blog/threat-research/2018/02/reelphish-real-time-two-factor-phishing-tool.html
+
+evilginx: https://github.com/kgretzky/evilginx2
+
+CredSniper: https://github.com/ustayready/CredSniper
+
+### Phishing
+
+GoPhish: https://getgophish.com/
+
+PhishingFrenzy: https://github.com/pentestgeek/phishing-frenzy
+
+King Phisher: https://github.com/securestate/king-phisher
+
+### Microsoft Word/Excel Macro Files
+
+LuckyStrike: https://github.com/curi0usJack/luckystrike
+
+VBad: https://github.com/Pepitoh/VBad
+
+### Non-Macro Office Files - DDE
+
+Sensepost DDE exploit write-up: https://sensepost.com/blog/2017/macro-less-code-exec-in-msword/
+
+Toolkit to look for RCE in MS Office: https://github.com/bhdresh/CVE-2017-0199
+
+Subdoc attacks: https://rhinosecuritylabs.com/research/abusing-microsoft-word-features-phishing-subdoc/
+
+Subdoc tool: https://github.com/RhinoSecurityLabs/Security-Research/tree/master/tools/ms-office/subdoc-injector
+
+### Hidden Encrypted Payloads
+
+EmbedInHTML: https://github.com/Arno0x/EmbedInHTML
+
+Demiguise: https://github.com/nccgroup/demiguise
+
+### Exploiting Internal Jenkins with Social Engineering
+
+Kim's tool: https://github.com/cheetz/generateJenkinsExploit
+
+Privacy, Security, & OSINT Show episode on testing online security: https://inteltechniques.com/blog/2019/02/01/the-privacy-security-osint-show-episode-110/
 
