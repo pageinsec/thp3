@@ -511,3 +511,51 @@ Kim's tool: https://github.com/cheetz/generateJenkinsExploit
 
 Privacy, Security, & OSINT Show episode on testing online security: https://inteltechniques.com/blog/2019/02/01/the-privacy-security-osint-show-episode-110/
 
+# Ch 6 Links
+
+Kevin Chung blog on RFID hacking: https://blog.kchung.co/rfid-hacking-with-the-proxmark-3/
+
+Southord Lockpicks: https://www.southord.com/
+
+Gate bypass devices: https://www.lockpickshop.com/GATE-BYPASS.html
+
+Shove-It: https://www.lockpickshop.com/SJ-50.html
+
+Under the Door 2.0: https://shop.riftrecon.com/products/under-the-door-tool
+
+Using air canisters to unlock doors with motion sensors: https://www.youtube.com/watch?v=xcA7iXSNmZE
+
+LAN Turtle: https://shop.hak5.org/products/lan-turtle
+
+Braking Down Security Episode w/systemd discussion: http://brakeingsecurity.com/2019-005-security-researcher-attack-disabling-specter-and-systemd-discussion
+
+Packet Squirrel: https://shop.hak5.org/collections/network-implants/products/packet-squirrel
+
+SWORD dropbox write-up: https://medium.com/@tomac/a-15-openwrt-based-diy-pen-test-dropbox-26a98a5fa5e5
+
+Accessing internal networks with reverse VPN connections: https://www.youtube.com/watch?v=b7qr0laM8kA
+
+Installing a OpenVPN access server on Ubuntu 15.10: http://www.ubuntuboss.com/how-to-install-openvpn-access-server-on-ubuntu-15-10/
+
+Setting up a transparent VPN internet gateway: https://trick77.com/how-to-set-up-transparent-vpn-internet-gateway-tunnel-openvpn/
+
+Rubber Ducky: https://shop.hak5.org/collections/physical-access/products/usb-rubber-ducky-deluxe
+
+Bash Bunny: https://shop.hak5.org/collections/physical-access/products/bash-bunny
+
+KonBoot: https://www.piotrbania.com/all/kon-boot/
+
+QuickCreds: https://github.com/hak5/bashbunny-payloads/tree/master/payloads/library/credentials/QuickCreds
+
+BunnyTap: https://github.com/hak5/bashbunny-payloads/tree/master/payloads/library/credentials/BunnyTap
+
+PoisonTap: https://www.youtube.com/watch?v=Aatp5gCskvk
+
+Other Bash Bunny payloads: https://github.com/hak5/bashbunny-payloads
+
+Wifite2: https://github.com/derv82/wifite2
+
+Wifi Pineapple Nano: https://www.wifipineapple.com/pages/nano
+
+eaphammer: https://www.wifipineapple.com/pages/nano
+
