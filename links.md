@@ -1,6 +1,7 @@
 ### Links from the book and working through it that I want to have handy (not a comprehensive list).
 
-### Please add name or brief description of tool or whatever it is when adding. 
+### Please add name or brief description of tool or whatever it is when adding.
+
 ### No obfuscated (bit.ly, etc.) links please.
 
 THP3 Updates page: https://github.com/cheetz/THP3_Updates
@@ -558,4 +559,62 @@ Wifite2: https://github.com/derv82/wifite2
 Wifi Pineapple Nano: https://www.wifipineapple.com/pages/nano
 
 eaphammer: https://www.wifipineapple.com/pages/nano
+
+# Ch 7 Links
+
+### Keylogger
+
+MSDN: https://msdn.microsoft.com/en-us/
+
+How to open the developer command prompt: https://docs.microsoft.com/en-us/dotnet/framework/tools/developer-command-prompt-for-vs
+
+SetWindowsHookEx function: https://docs.microsoft.com/en-us/windows/desktop/api/winuser/nf-winuser-setwindowshookexa
+
+LowLevelKeyboardProc function: https://msdn.microsoft.com/en-us/library/windows/desktop/ms644985(v=vs.85).aspx  
+
+Kim's basic keylogger: https://github.com/cheetz/ceylogger
+
+### THP Custom Droppers
+
+No links
+
+### Recompiling Metasploit/Meterpreter
+
+Black Hills Security post on AV evasion: https://www.blackhillsinfosec.com/modifying-metasploit-x64-template-for-av-evasion/
+
+### SharpShooter
+
+SharpShooter: https://www.mdsec.co.uk/2018/03/payload-generation-using-sharpshooter/
+
+SharpShooter Github: https://github.com/mdsecactivebreach/SharpShooter
+
+### Application Whitelisting Bypass
+
+GreatSCT: https://github.com/GreatSCT/GreatSCT
+
+### Code Caves
+
+Backdoor Factory: https://github.com/secretsquirrel/the-backdoor-factory
+
+Hiderm backdoor info: https://haiderm.com/fully-undetectable-backdooring-pe-file/pe-file-backdooring-using-codecaves/ (was down when I tried it)
+
+Abatchy backdoor info: https://www.abatchy.com/2017/05/introduction-to-manual-backdooring_24.html (wasn't accessible when I tried it)
+
+Abathy's blog (because lots of good stuff): https://www.abatchy.com/
+
+### PowerShell Obfuscation
+
+Invoke-Obfuscation: https://github.com/danielbohannon/Invoke-Obfuscation
+
+Invoke-CradleCrafter: https://github.com/danielbohannon/Invoke-CradleCrafter
+
+### PowerShell without PowerShell
+
+NoPowerShell: https://github.com/trustedsec/nps_payload
+
+SharpPick: https://github.com/PowerShellEmpire/PowerTools/tree/master/PowerPick/SharpPick
+
+### HideMyPS
+
+HidMyPS tool from Kim: https://github.com/cheetz/hidemyps
 
