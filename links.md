@@ -618,3 +618,101 @@ SharpPick: https://github.com/PowerShellEmpire/PowerTools/tree/master/PowerPick/
 
 HidMyPS tool from Kim: https://github.com/cheetz/hidemyps
 
+# Ch 8 Links
+
+### Automation
+
+Nyxs writeup on automating Metasploit: http://nyxshacks.com/automate-meterpreter-commands/
+
+Black Hills Info Sec post on scripting startup of Empire listeners: https://www.blackhillsinfosec.com/how-to-script-startup-of-empire-listeners/
+
+Black Hills Info Sec post on creating unattended deployment and teardown of Empire: https://www.blackhillsinfosec.com/empire-bootstrapping-v2-pre-automate-things/
+
+byt3bl33d3r GitHub on getting domain admin with DeathStar: https://byt3bl33d3r.github.io/automating-the-empire-with-the-death-star-getting-domain-admin-with-a-push-of-a-button.html
+
+### Password Cracking
+
+Overview of huge credential dump: https://medium.com/4iqdelvedeep/1-4-billion-clear-text-credentials-discovered-in-a-single-database-3131d0a1ae14
+
+Kim's list of just the passwords from the credential dump: http://thehackerplaybook/get.php?type=THP-password
+
+Have I Been Pwned: https://haveibeenpwned.com/
+
+Write-up on using Crunch to create custom wordlists: https://null-byte.wonderhowto.com/how-to/hack-like-pro-crack-passwords-part-4-creating-custom-wordlist-with-crunch-0156817/
+
+Hashcat rule based attacks: https://hashcat.net/wiki/doku.php?id=rule_based_attack
+
+Korelogic contest rules with info on rules for password cracking: http://contest-2010.korelogic.com/rules.html
+
+Hashcat Rules: https://github.com/hashcat/hashcat/tree/master/rules
+
+NSAKEY Rules forked to his GitHub: https://github.com/cyberspacekittens/nsa-rules
+
+Praetorian-inc Hob0Rules forked to his GitHub: https://github.com/cyberspacekittens/Hob0Rules
+
+NotSoSecure also forked: https://github.com/cyberspacekittens/password_cracking_rules
+
+### Gotta Crack Em All
+
+Hashcat wiki on hashes: https://hashcat.net/wiki/doku.php?id=example_hashes
+
+Hashcat utils: https://github.com/hashcat/hashcat-utils/releases
+
+Brutescrape: https://github.com/cheetz/brutescrape
+
+Burp Word List Extractor: https://portswigger.net/bappstore/21df56baa03d499c8439018fe075d3d7
+
+Creating masks using PACK: https://tools.kali.org/password-attacks/pack
+
+ PACK: https://github.com/iphelix/pack
+
+Pipal to analyze cracked passwords: https://github.com/digininja/pipal
+
+A Deep Learning Approach for Password Guessing: https://github.com/brannondorsey/PassGAN
+
+Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks: https://www.usenix.org/conference/atc17/technical-sessions/presentation/melicher
+
+### Disabling PowerShell Logging
+
+Lee Christensen method for disabling PS logging: https://github.com/leechristensen/Random/blob/master/CSharp/DisablePSLogging.cs
+
+### Windows Download File from Internet Command Line
+
+arno0x0x blog on Windows one liners: https://arno0x0x.wordpress.com/2017/11/20/windows-oneliners-to-download-remote-payload-and-execute-arbitrary-code/
+
+### Getting System from Local Admin
+
+PSgetsystem by Decoder-It: https://github.com/decoder-it/psgetsystem
+
+### Retrieving NTLM Hashes without Touching LSASS
+
+Internal Monologue Attack: https://github.com/eladshamir/Internal-Monologue
+
+### Building Training Labs and Monitor with Defensive Tools
+
+Detection Lab (automate lab setup): https://github.com/clong/DetectionLab
+
+Chris Long's post on his Detection Lab tool: https://medium.com/@clong/introducing-detection-lab-61db34bed6ae
+
+# Ch 9 Links
+
+No links in this chapter
+
+# Ch 10 Links
+
+No links in this chapter
+
+### Continuing Education Links
+
+Subscribe to THP updates: http://thehackerplaybook.com/subscribe/
+
+THP training: http://thehackerplaybook.com/training/
+
+My Podcast list: https://apageinsec.wordpress.com/2018/06/13/the-podcast-list/
+
+My THP notes: https://apageinsec.wordpress.com/thp3-notes/
+
+
+
+
+
