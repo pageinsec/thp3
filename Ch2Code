@@ -1,0 +1,39 @@
+# Code from my chapter 2 notes - see blog for context
+# Run from terminal using Bash
+
+# Discover Scripts
+git clone https://github.com/leebaird/discover /opt/discover
+cd /opt/discover
+./update.sh
+./discover.sh
+...a bunch of options
+Choice: 
+...options for your choice
+Choice:
+...more options
+cd /opt/discover
+./discover.sh
+Choice: 1
+Choice: 1
+Company: <company name>
+Domain: <url>
+
+# Fixing requests for Sublist3r
+sudo pip uninstall requests
+sudo pip install requests
+sudo pip uninstall docopt
+sudo pip install docopt
+
+# git-all-secrets
+docker run -it abhartiya/tools_gitallsecrets:v3 - repoURL=https://github.com/<repo info> -token=<token> -output=results.txt
+docker cp <container-id>:/data/results.txt .
+docker cp <container-id>:/data/results.txt <desired-filepath>
+
+# Slurp
+git clone https://github.com/nuncan/slurp /opt/slurp
+mv slurp/vendor slurp/src
+export GOPATH=<path to slurp>
+go build
+cd /opt/slurp
+./slurp domain -t <URL>
+./slurp keyword -t <keywords>
